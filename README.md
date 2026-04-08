@@ -59,17 +59,7 @@
 |---|---|---|
 | [🧬 SMA Data Science](https://github.com/Kisara00555/sma-data-science) | Analyzing clinical & genetic data related to Spinal Muscular Atrophy | Python, Jupyter |
 | [🏥 Treatment Response Prediction](https://github.com/Kisara00555/DPR-Assignment-Group-B) | Predicting treatment response using patient clinical data (DS202.3 coursework) | R, HTML |
-| [📊 1st Project](https://github.com/Kisara00555/1st-Project) | *(Add a short description of what this project does)* | Python, Jupyter |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisara00555&show_icons=true&theme=minimal&hide_border=true" alt="GitHub Stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisara00555&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" height="150" />
-</p>
+| [📊 1st Project](https://github.com/Kisara00555/1st-Project) | Bsic Python Project | Python, Jupyter |
 
 ---
 
