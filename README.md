@@ -112,7 +112,7 @@ Feel free to reach out — always happy to connect, collaborate, or just talk da
 
 <div align="center">
 
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+<em>"Without data, you're just another person with an opinion." — W. Edwards Deming</em>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
 
