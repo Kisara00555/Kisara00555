@@ -32,6 +32,7 @@ kisara = {
     "focus"       : ["Machine Learning", "Deep Learning", "AI Systems"],
     "niche"       : ["Bioinformatics", "Cheminformatics"],
     "currently"   : "Building predictive models on clinical & biological data",
+    "currently"   : "Building predictive models on clinical & biological data",
     "contact"     : "kwethmin005@gmail.com"
 }
 ```
@@ -97,6 +98,15 @@ kisara = {
 > **Bioinformatics** — genomics, protein structure, clinical data modelling
 >
 > **Cheminformatics** — molecular property prediction, drug discovery pipelines, chemical data analysis
+
+---
+
+## 📬 Let's Connect
+
+Feel free to reach out — always happy to connect, collaborate, or just talk data!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kisara-wethmin-0608a2382)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kwethmin005@gmail.com)
 
 ---
 
