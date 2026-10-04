@@ -32,7 +32,6 @@ kisara = {
     "focus"       : ["Machine Learning", "Deep Learning", "AI Systems"],
     "niche"       : ["Bioinformatics", "Cheminformatics"],
     "currently"   : "Building predictive models on clinical & biological data",
-    "currently"   : "Building predictive models on clinical & biological data",
     "contact"     : "kwethmin005@gmail.com"
 }
 ```
