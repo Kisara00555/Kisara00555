@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Kisara%20Wethmin&fontSize=40&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img alt="Kisara Wethmin" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Kisara%20Wethmin&fontSize=40&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 # `> Building Intelligent Systems from Data`
 
@@ -8,13 +8,13 @@
 
 <p>
   <a href="https://linkedin.com/in/kisara-wethmin-0608a2382">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kwethmin005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email Kisara" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://kaggle.com/kisarawethmin">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img alt="Kaggle profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
@@ -71,6 +71,7 @@ kisara = {
 
 | 🔬 Project | 💡 What it does | 🛠 Stack |
 |---|---|---|
+| [🚦 TrafficPulse](https://github.com/Kisara00555/trafficpulse) | In progress: hourly traffic forecasting research. Completed: reproducible source ingestion, missing-hour and duplicate checks, and automated tests. | Python · unittest · GitHub Actions |
 | [🧬 SMA Clinical ML](https://github.com/Kisara00555/sma-data-science) | End-to-end ML analysis on clinical & genetic data for Spinal Muscular Atrophy — bridging AI and bioinformatics | Python · scikit-learn · Jupyter |
 | [🏥 Treatment Response Prediction](https://github.com/Kisara00555/DPR-Assignment-Group-B) | Statistical ML model predicting patient treatment outcomes from clinical data (DS202.3 module) | R · ggplot2 · HTML |
 | [📊 Exploratory Data Analysis](https://github.com/Kisara00555/1st-Project) | Foundational data wrangling, visualization and pattern discovery project | Python · Pandas · Jupyter |
@@ -80,12 +81,12 @@ kisara = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisara00555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisara00555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+  <img alt="GitHub activity statistics for Kisara00555" src="https://github-readme-stats.vercel.app/api?username=Kisara00555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
+  <img alt="Languages used across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisara00555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kisara00555&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
+  <img alt="GitHub contribution streak for Kisara00555" src="https://github-readme-streak-stats.herokuapp.com/?user=Kisara00555&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
 </div>
 
 ---
@@ -113,6 +114,6 @@ Feel free to reach out — always happy to connect, collaborate, or just talk da
 
 <em>"Without data, you're just another person with an opinion." — W. Edwards Deming</em>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
