@@ -71,7 +71,7 @@ kisara = {
 
 | 🔬 Project | 💡 What it does | 🛠 Stack |
 |---|---|---|
-| [🚦 TrafficPulse](https://github.com/Kisara00555/trafficpulse) | In progress: hourly traffic forecasting research. Completed: reproducible source ingestion, missing-hour and duplicate checks, and automated tests. | Python · unittest · GitHub Actions |
+| [🚦 TrafficPulse](https://github.com/Kisara00555/trafficpulse) | In progress: leakage-aware hourly traffic forecasting. Completed: provenance-checked hourly data, chronological splits, and training-only baselines. On 8,667 shared 2017 validation hours, the training weekday-hour mean scored MAE 279 vehicles/hour versus 303 for same-hour-last-week; final holdout untouched. | Python · standard library · unittest · GitHub Actions |
 | [🧬 SMA Clinical ML](https://github.com/Kisara00555/sma-data-science) | End-to-end ML analysis on clinical & genetic data for Spinal Muscular Atrophy — bridging AI and bioinformatics | Python · scikit-learn · Jupyter |
 | [🏥 Treatment Response Prediction](https://github.com/Kisara00555/DPR-Assignment-Group-B) | Statistical ML model predicting patient treatment outcomes from clinical data (DS202.3 module) | R · ggplot2 · HTML |
 | [📊 Exploratory Data Analysis](https://github.com/Kisara00555/1st-Project) | Foundational data wrangling, visualization and pattern discovery project | Python · Pandas · Jupyter |
