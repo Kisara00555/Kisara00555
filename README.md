@@ -71,7 +71,7 @@ kisara = {
 
 | 🔬 Project | 💡 What it does | 🛠 Stack |
 |---|---|---|
-| [🚦 TrafficPulse](https://github.com/Kisara00555/trafficpulse) | In progress: hourly traffic forecasting with chronological tuning and leakage tests. A tree model scored MAE 190.2 vehicles/hour versus 278.7 for a weekday/hour baseline on the same 8,713 observed 2017 validation hours. Four quarterly backtests and error analysis completed. Final holdout untouched; uncertainty intervals next. | Python · scikit-learn · unittest · GitHub Actions |
+| [🚦 TrafficPulse](https://github.com/Kisara00555/trafficpulse) | In progress: hourly traffic forecasting with chronological tuning and leakage tests. A tree model scored MAE 190.2 vehicles/hour versus 278.7 for a weekday/hour baseline on the same 8,713 observed 2017 validation hours. Four quarterly backtests and error analysis completed. Interval evaluation completed, with weaker coverage in some hours. Final holdout untouched. | Python · scikit-learn · unittest · GitHub Actions |
 | [🧬 SMA Clinical ML](https://github.com/Kisara00555/sma-data-science) | End-to-end ML analysis on clinical & genetic data for Spinal Muscular Atrophy — bridging AI and bioinformatics | Python · scikit-learn · Jupyter |
 | [🏥 Treatment Response Prediction](https://github.com/Kisara00555/DPR-Assignment-Group-B) | Statistical ML model predicting patient treatment outcomes from clinical data (DS202.3 module) | R · ggplot2 · HTML |
 | [📊 Exploratory Data Analysis](https://github.com/Kisara00555/1st-Project) | Foundational data wrangling, visualization and pattern discovery project | Python · Pandas · Jupyter |
