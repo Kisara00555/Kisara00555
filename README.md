@@ -78,14 +78,11 @@ kisara = {
 
 </div>
 
-<details>
-<summary>GitHub activity</summary>
-<br />
-<div align="center">
-  <img alt="GitHub activity statistics for Kisara00555" src="https://github-readme-stats.vercel.app/api?username=Kisara00555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-  <img alt="Languages used across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisara00555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
-</div>
-</details>
+## 📊 GitHub Activity
+
+[Contribution activity](https://github.com/Kisara00555?tab=overview#js-contribution-activity) · [Public repositories](https://github.com/Kisara00555?tab=repositories)
+
+My GitHub contribution graph is also visible below this README.
 
 <div align="center">
 
