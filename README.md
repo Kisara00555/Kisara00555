@@ -53,11 +53,14 @@ AI-assisted learning project. The pipeline checks missing hours and duplicate ti
 
 ## 🧠 Who I Am
 
-I’m a **Data Science undergraduate at NSBM Green University**, graduating in **2028**. I’m interested in building AI systems whose results I can test and explain.
-
-- **AI & ML Engineering** — Reliable ML pipelines, baseline comparisons, and model evaluation. [TrafficPulse](https://github.com/Kisara00555/trafficpulse) uses time-ordered evaluation and leakage checks to test hourly forecasts.
-- **Retrieval-Augmented Generation (RAG)** — Building and evaluating RAG prototypes. My [Python coursework](https://github.com/Kisara00555/DS-in-Python) brings together embeddings, ChromaDB, and FastAPI in a startup funding assistant.
-- **Bioinformatics** — Applying ML to biological data. My [gene expression project](https://github.com/Kisara00555/gene-expression-cancer-classification) explores classification of cancer and normal samples.
+```python
+kisara = {
+    "study": "BSc (Hons) in Data Science · NSBM Green University",
+    "expected_graduation": 2028,
+    "focus": ["AI & ML Engineering", "RAG", "Bioinformatics", "Analytics & Business Intelligence"],
+    "interests": ["bioinformatics", "cheminformatics"],
+}
+```
 
 ## ⚡ Technical Toolkit
 
