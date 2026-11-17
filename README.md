@@ -53,12 +53,11 @@ AI-assisted learning project. The pipeline checks missing hours and duplicate ti
 
 ## 🧠 Who I Am
 
-I study **Data Science at NSBM Green University** and expect to graduate in **2028**. I’m drawn to the decisions that make a result useful: what went into it, what it was compared against, and how far the evidence goes.
+I’m a **Data Science undergraduate at NSBM Green University**, graduating in **2028**. I’m interested in building AI systems whose results I can test and explain.
 
-- **Data quality and forecasting.** In [TrafficPulse](https://github.com/Kisara00555/trafficpulse), I explore how missing hours, repeated timestamps, and data leakage affect an hourly forecast. The project compares the model against a weekday-and-hour baseline.
-- **Document retrieval.** My [RAG coursework](https://github.com/Kisara00555/DS-in-Python) explores how PDF text becomes searchable passages through chunking, embeddings, and ChromaDB, with a FastAPI interface.
-- **Analytics people can explore.** I created an interactive Power BI dashboard to explore sales trends.
-- **Bioinformatics and applied ML.** I’m interested in what biological datasets can tell us. My [gene expression experiment](https://github.com/Kisara00555/gene-expression-cancer-classification) explores classification of cancer and normal samples. I’m also interested in cheminformatics.
+- **AI & ML Engineering** — Reliable ML pipelines, baseline comparisons, and model evaluation. [TrafficPulse](https://github.com/Kisara00555/trafficpulse) uses time-ordered evaluation and leakage checks to test hourly forecasts.
+- **Retrieval-Augmented Generation (RAG)** — Building and evaluating RAG prototypes. My [Python coursework](https://github.com/Kisara00555/DS-in-Python) brings together embeddings, ChromaDB, and FastAPI in a startup funding assistant.
+- **Bioinformatics** — Applying ML to biological data. My [gene expression project](https://github.com/Kisara00555/gene-expression-cancer-classification) explores classification of cancer and normal samples.
 
 ## ⚡ Technical Toolkit
 
