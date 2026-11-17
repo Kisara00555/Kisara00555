@@ -1,119 +1,18 @@
-<div align="center">
+# Kisara Wethmin
 
-<img alt="Kisara Wethmin" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Kisara%20Wethmin&fontSize=40&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" width="100%"/>
+Data Science undergraduate at NSBM Green University, Sri Lanka. Interested in data engineering, analytics and applied machine learning internships.
 
-# `> Building Intelligent Systems from Data`
+## Selected projects
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Student+%40+NSBM+Green+University;Aspiring+AI+Engineer;Bioinformatics+%26+Cheminformatics+Enthusiast;Turning+Raw+Data+into+Real+Intelligence)](https://git.io/typing-svg)
+| Project | What to look at |
+|---|---|
+| [TrafficPulse](https://github.com/Kisara00555/trafficpulse) | AI-assisted learning project on hourly traffic forecasting. The Python pipeline checks timestamp gaps and duplicates, and evaluates forecasts in time order. On 6,533 observed hours at one historical I-94 station, the frozen model recorded 185.6 vehicles/hour MAE versus 272.9 for a weekday/hour baseline. [Holdout results and limitations](https://github.com/Kisara00555/trafficpulse/blob/main/docs/HOLDOUT_RESULTS.md) |
+| [Startup Funding RAG Assistant](https://github.com/Kisara00555/DS-in-Python) | Data Science with Python coursework. The prototype extracts and chunks PDFs, retrieves relevant passages using embeddings and ChromaDB, and exposes the workflow through FastAPI. |
+| [AisleSense](https://github.com/Kisara00555/AisleSense) | Team Everguard project for GreenEXE 4.0. The local retail demo includes recorded-video pose processing, staff review and simulated occupancy-based lighting. [Team and resource credits](https://github.com/Kisara00555/AisleSense/blob/main/ATTRIBUTION.md) |
+| [SMA Data Science](https://github.com/Kisara00555/sma-data-science) | Educational classification exercise on a small synthetic dataset, using logistic regression and a decision tree. |
 
-<p>
-  <a href="https://linkedin.com/in/kisara-wethmin-0608a2382">
-    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kwethmin005@gmail.com">
-    <img alt="Email Kisara" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/kisarawethmin">
-    <img alt="Kaggle profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
+## Tools demonstrated in these projects
 
+Python, pandas, scikit-learn, FastAPI, ChromaDB, Jupyter and GitHub Actions. My coursework and projects also include relational databases and SQL.
 
-</div>
-
----
-
-## 🧠 Who Am I
-
-```python
-kisara = {
-    "role"        : "Data Science & AI Student → Aspiring AI Engineer",
-    "university"  : "NSBM Green University, Sri Lanka",
-    "focus"       : ["Machine Learning", "Deep Learning", "AI Systems"],
-    "niche"       : ["Bioinformatics", "Cheminformatics"],
-    "currently"   : "Building predictive models on clinical & biological data",
-    "contact"     : "kwethmin005@gmail.com"
-}
-```
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML / DL**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| 🔬 Project | 💡 What it does | 🛠 Stack |
-|---|---|---|
-| [🚦 TrafficPulse](https://github.com/Kisara00555/trafficpulse) | Completed historical research prototype: hourly traffic forecasting with chronological tuning and leakage tests. [Frozen holdout results](https://github.com/Kisara00555/trafficpulse/blob/main/docs/HOLDOUT_RESULTS.md): tree MAE 185.6 versus 272.9 vehicles/hour for the weekday/hour baseline on 6,533 observed Jan–Sep 2018 hours. Interval coverage varies by hour. Includes a hypothetical decision study and offline historical replay. | Python · scikit-learn · unittest · GitHub Actions |
-| [🧬 SMA Clinical ML](https://github.com/Kisara00555/sma-data-science) | End-to-end ML analysis on clinical & genetic data for Spinal Muscular Atrophy — bridging AI and bioinformatics | Python · scikit-learn · Jupyter |
-| [🏥 Treatment Response Prediction](https://github.com/Kisara00555/DPR-Assignment-Group-B) | Statistical ML model predicting patient treatment outcomes from clinical data (DS202.3 module) | R · ggplot2 · HTML |
-| [📊 Exploratory Data Analysis](https://github.com/Kisara00555/1st-Project) | Foundational data wrangling, visualization and pattern discovery project | Python · Pandas · Jupyter |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img alt="GitHub activity statistics for Kisara00555" src="https://github-readme-stats.vercel.app/api?username=Kisara00555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-  <img alt="Languages used across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisara00555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
-</div>
-
-<div align="center">
-  <img alt="GitHub contribution streak for Kisara00555" src="https://github-readme-streak-stats.herokuapp.com/?user=Kisara00555&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
-</div>
-
----
-
-## 🔬 Special Interests
-
-> Beyond core AI/ML, I'm deeply passionate about applying intelligent systems to the life sciences:
->
-> **Bioinformatics** — genomics, protein structure, clinical data modelling
->
-> **Cheminformatics** — molecular property prediction, drug discovery pipelines, chemical data analysis
-
----
-
-## 📬 Let's Connect
-
-Feel free to reach out — always happy to connect, collaborate, or just talk data!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kisara-wethmin-0608a2382)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kwethmin005@gmail.com)
-
----
-
-<div align="center">
-
-<em>"Without data, you're just another person with an opinion." — W. Edwards Deming</em>
-
-<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
-
-</div>
+[LinkedIn](https://linkedin.com/in/kisara-wethmin-0608a2382) · [Email](mailto:kwethmin005@gmail.com)
