@@ -53,14 +53,12 @@ AI-assisted learning project. The pipeline checks missing hours and duplicate ti
 
 ## 🧠 Who I Am
 
-```python
-kisara = {
-    "study": "BSc (Hons) in Data Science · NSBM Green University",
-    "expected_graduation": 2028,
-    "focus": ["data validation", "time-series forecasting", "document retrieval"],
-    "interests": ["bioinformatics", "cheminformatics"],
-}
-```
+I study **Data Science at NSBM Green University** and expect to graduate in **2028**. I’m drawn to the decisions that make a result useful: what went into it, what it was compared against, and how far the evidence goes.
+
+- **Data quality and forecasting.** In [TrafficPulse](https://github.com/Kisara00555/trafficpulse), I explore how missing hours, repeated timestamps, and data leakage affect an hourly forecast. The project compares the model against a weekday-and-hour baseline.
+- **Document retrieval.** My [RAG coursework](https://github.com/Kisara00555/DS-in-Python) explores how PDF text becomes searchable passages through chunking, embeddings, and ChromaDB, with a FastAPI interface.
+- **Analytics people can explore.** I created an interactive Power BI dashboard to explore sales trends.
+- **Bioinformatics and applied ML.** I’m interested in what biological datasets can tell us. My [gene expression experiment](https://github.com/Kisara00555/gene-expression-cancer-classification) explores classification of cancer and normal samples. I’m also interested in cheminformatics.
 
 ## ⚡ Technical Toolkit
 
