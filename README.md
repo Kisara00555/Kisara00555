@@ -56,6 +56,7 @@ AI-assisted learning project. The pipeline checks missing hours and duplicate ti
 ```python
 kisara = {
     "study": "BSc (Hons) in Data Science · NSBM Green University",
+    "expected_graduation": 2028,
     "focus": ["data validation", "time-series forecasting", "document retrieval"],
     "interests": ["bioinformatics", "cheminformatics"],
 }
